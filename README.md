@@ -1,6 +1,7 @@
 # OS-Practical-25.04.2025-
 
 Using touch i have created file called as multi.sh
+using vi multi.sh i have opened inside the file
 inside the file i have created for loop for get the table 
 using chomd 777 multi.sh given the permission
 finally using ./multi command i have displayed the out put
